@@ -146,13 +146,15 @@ input:focus {
 }
 
 .btn {
-  color: #fff;
+  background-color:gainsboro;
   border: 0;
   border-radius: 8px;
-  color: #fff;
+  color:deeppink;
   width: 100px;
   height: 40px;
   cursor: pointer;
+  margin-top: 20px;
+  margin-left: 10px;
 }
 
 .btn-primary {
